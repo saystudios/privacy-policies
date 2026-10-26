@@ -9,6 +9,6 @@ Contact: SayStudiosllc@yahoo.com
 | App | Policy URL |
 | --- | --- |
 | Boba Boss | https://saystudios.github.io/privacy-policies/boba-boss/ |
-| WellRoutine | https://saystudios.github.io/privacy-policies/wellroutine/ (support: https://saystudios.github.io/privacy-policies/wellroutine/support/) |
+| Gentle Health Routine | https://saystudios.github.io/privacy-policies/gentle-health-routine/ (support: https://saystudios.github.io/privacy-policies/gentle-health-routine/support/) |
 
 To turn on the site: **Settings → Pages → Deploy from a branch → `main` / `(root)` → Save.**
