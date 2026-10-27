@@ -9,5 +9,6 @@ Contact: SayStudiosllc@yahoo.com
 | App | Policy URL |
 | --- | --- |
 | Boba Boss | https://saystudios.github.io/privacy-policies/boba-boss/ |
+| Say Math Jr. | https://saystudios.github.io/privacy-policies/say-math-jr/ |
 
 To turn on the site: **Settings → Pages → Deploy from a branch → `main` / `(root)` → Save.**
